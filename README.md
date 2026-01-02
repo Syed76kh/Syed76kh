@@ -1,6 +1,26 @@
-#  About Me:
-About Me<br>Python and web developer focused on building clean, maintainable, and practical solutions. I create projects that solve real-world problems and strengthen workflow efficiency. Constantly refining my skills to deliver professional, high-quality results.<br><br>Currently Working On<br>Full-stack web applications, automation tools, and backend solutions with emphasis on structure, readability, and performance.<br><br>Currently Learning<br>Advanced Python patterns, scalable web development, and best practices for maintainable code.<br><br>Looking to Collaborate On<br>Projects that solve real problems, clean backend or full-stack applications, and meaningful open-source contributions.<br><br>Ask Me About<br>Python, backend development, clean code, and project structuring for efficiency.<br><br>Fun Fact<br>I focus on building solutions that are simple, understandable, and reliable over flashy designs.
+# Hi, I’m Syed Abdullah Ahmed – a Python and Web Developer
 
+I specialize in building practical, efficient, and maintainable solutions. My projects focus on solving real-world problems while improving workflow efficiency. I strive to write **clean, readable, and professional-quality code** that stands the test of time.
+
+##  Currently Working On
+- Full-stack web applications with an emphasis on **structure, performance, and maintainability**  
+- Automation tools and backend solutions designed to **streamline workflows**
+
+##  Currently Learning
+- Advanced **Python patterns**  
+- Scalable **web development techniques**  
+- Best practices for **maintainable, high-quality codebases**
+
+##  Looking to Collaborate On
+- Projects that solve **real problems** and have a tangible impact  
+- **Clean backend** or full-stack applications  
+- Meaningful **open-source contributions**
+
+##  Ask Me About
+Python, backend development, **clean coding practices**, and efficient **project structuring**
+
+##  Fun Fact
+I prioritize **simplicity, clarity, and reliability** over flashy designs—because a solution that works well today should still make sense tomorrow.
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Syed Abdullah Ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed Abdullah Ahmed) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/syedabdullah2k6) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Syed Abdullah Ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@itzz_abdullah27) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Syed-Abdullah-Ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedabdullah2k6@gmail.com) 
