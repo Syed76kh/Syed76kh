@@ -1,4 +1,4 @@
-# Hi, I’m Syed Abdullah Ahmed – a Python and Web Developer
+# Hi, I’m Syed Abdullah Ahmed – a AI and Cybersecurity Professional 
 
 I specialize in building practical, efficient, and maintainable solutions. My projects focus on solving real-world problems while improving workflow efficiency. I strive to write **clean, readable, and professional-quality code** that stands the test of time.
 
